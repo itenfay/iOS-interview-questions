@@ -4,14 +4,17 @@
 
 ## 技术交流群(群号:155353383) 
 
-欢迎加入技术交流群，一起探讨技术问题。<br />
-![](https://github.com/dgynfi/iOS-interview-questions/raw/master/images/qq155353383.jpg)
+- 欢迎加入技术交流群，一起探讨技术问题。
+
+<div align=left>
+&emsp; <img src="https://github.com/dgynfi/iOS-interview-questions/raw/master/images/qq155353383.jpg" width="20%" />
+</div>
 
 ## iOS面试题整理
 
 在线查看地址：https://ios.nobady.cn
 
-iOS面试相关问题整理，做这个的初心是希望能巩固自己的基础知识，当然也希望能帮助更多的开发者，如果发现答案不准确或者不完整的，请前往 [Github](https://github.com/dgynfi/iOS-interview-questions) 提交完善。
+&emsp; iOS面试相关问题整理，做这个的初心是希望能巩固自己的基础知识，当然也希望能帮助更多的开发者，如果发现答案不准确或者不完整的，请前往 [Github](https://github.com/dgynfi/iOS-interview-questions) 提交完善。
 
 ### 数据结构  [![edit](https://qn.nobady.cn/iOS/md_edit.png)](https://github.com/dgynfi/iOS-interview-questions/edit/master/docs/Data-structure.md)
 
