@@ -1,8 +1,12 @@
 [如果此项目能帮助到你，就请你给一颗星。谢谢！(If this project can help you, please give it a star. Thanks!)](https://github.com/dgynfi/iOS-interview-questions)
 
+
+## iOS Interview Questions
+
 相信很多 iOS 程序猿都有进入 BAT、字节跳动、美团、京东、360和小米等大厂的梦想，进入唯一途径就是通过面试，面试的关键就是硬实力，也就是知识储备和行业工作经验。
 
 工作经验是通过入厂和社会实践获得，知识储备就是通过各种学习慢慢积累。我从数据结构、算法、Foundation、UIKit、WebView、内存管理、消息传递的方式、消息传递的方式、数据存储、多线程、动画、图像处理、数据安全及加密、Runtime、Runloop、项目架构、设计模式、组件化、调试技巧、性能优化、源码理解、代码管理和持续集成等这些内容分类整理出相关问题，一方面希望巩固自己的基础知识，另一面也希望能帮助更多的 iOS 开发者。如果发现答案不准确或者不完整，就请前往 [Github](https://github.com/dgynfi/iOS-interview-questions) 提交完善。
+
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)&nbsp;
 
@@ -12,11 +16,6 @@
 <div align=left>
 &emsp; <img src="https://github.com/dgynfi/iOS-interview-questions/raw/master/images/g614799921.jpg" width="30%" />
 </div>
-
-
-## iOS面试题整理
-
-在线查看地址：https://ios.nobady.cn
 
 
 ### 数据结构  [![edit](https://qn.nobady.cn/iOS/md_edit.png)](https://github.com/dgynfi/iOS-interview-questions/edit/master/docs/Data-structure.md)
